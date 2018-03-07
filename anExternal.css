@@ -1,13 +1,3 @@
-.container {
-    position: relative;
-}
-
-.bottomleft {
-    position: absolute;
-    bottom: 8px;
-    left: 16px;
-    font-size: 18px;
-}
 body{
 	background-color: lightgoldenrodyellow;
 	font-family: "Times New Roman", Times, serif;
